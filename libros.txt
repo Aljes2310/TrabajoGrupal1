@@ -1,4 +1,4 @@
-id,titulo,genero,ISBN,editorial,autores)
+id,titulo,genero,ISBN,editorial,autores
 1,Sobre Heroes y Tumbas,Novela,958-42-0987-6,Biblioteca Hispanoamerica,Ernesto Sabato
-2,Cinco semanas en Globo,Aventura,84-7166-112-8,EDAF,Julio Verne
-3,Upwelling System of the World,Oceanografia,978-3-319-42522-1,Springer,Kampf y Chapman
+2,Cinco Semanas en Globo,Aventura,84-7166-112-8,EDAF,Julio Verne
+3,Upwelling Systems of the World,Oceanografia,978-3-319-42522-1,Springer,Kampf;Chapman
